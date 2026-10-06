@@ -1,0 +1,1 @@
+export const C={canvas:"#F6F1EA",surface:"#FFFCF8",muted:"#F1E9E1",ink:"#261F20",soft:"#6F6464",wine:"#7C263C",gold:"#B78A43",border:"#DED4CC",paleWine:"#F4E5E9",success:"#247A59"};
